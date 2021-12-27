@@ -16,6 +16,6 @@ import com.qaprosoft.carina.core.foundation.utils.Configuration;
 public class CreateRepositoryMethod extends AbstractApiMethodV2 {
 
     public CreateRepositoryMethod() {
-        replaceUrlPlaceholder("base_url",Configuration.getEnvArg("api_url"));
+        replaceUrlPlaceholder("base_url", Configuration.getEnvArg("api_url"));
     }
 }
