@@ -1,4 +1,4 @@
-package com.solvd.apitesting;
+package com.solvd.apiwebtesting.api;
 
 import com.qaprosoft.carina.core.foundation.api.http.HttpResponseStatusType;
 import org.testng.annotations.Test;
